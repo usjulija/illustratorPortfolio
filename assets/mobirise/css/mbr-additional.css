@@ -1,15 +1,47 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+
+
+
+
+
+
 #menu-8 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-8.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #efefef;
 }
 #menu-8 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #4c6972;
+}
+#menu-8 .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 17px;
+}
+#menu-8 .mbr-navbar__items a {
+  font-size: 17px;
+}
+#header4-1 H1 {
+  text-align: center;
+  color: #4c6972;
+  font-size: 60px;
+  font-family: 'Oxygen', sans-serif;
+}
+#header4-1 P {
+  font-size: 36px;
+  font-family: 'Oxygen', sans-serif;
+  color: #475577;
+}
+#header4-1 .btn {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
 }
 #content5-3 .mbr-header .mbr-header__text {
   text-align: center;
-  color: #fff;
+  color: #4c6972;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 32px;
 }
 #content5-3 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -18,9 +50,17 @@
 #content5-3 .mbr-article {
   color: #fff;
 }
-#msg-box2-4 .mbr-header .mbr-header__text {
-  color: #252525;
+#content5-3 .mbr-article P {
+  color: #4c6972;
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 18px;
 }
-#msg-box2-4 .mbr-article {
-  color: #252525;
+#social-buttons2-9 .mbr-header__text {
+  color: #4c6972;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 32px;
+}
+#footer1-6 P {
+  color: #4c6972;
 }
