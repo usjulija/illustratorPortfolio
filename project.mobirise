@@ -12,7 +12,8 @@
     "versionFirst": "4.8.10",
     "siteFonts": [],
     "uniqCompNum": 10,
-    "versionPublish": "4.8.10"
+    "versionPublish": "4.8.10",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -203,35 +204,11 @@
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-1600x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/slide1-1600x1080-800x540.jpg",
-                "alt": "Vector logo mask",
-                "title": "",
-                "caption": "Logo concept for local furniture store",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide5-1600x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/slide5-1600x1080-800x540.jpg",
-                "alt": "Floral pattern",
-                "title": "",
-                "caption": "Floral pattern",
-                "active": false
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/untitled-1-1600x1080.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-1-1600x1080-800x540.jpg",
                 "alt": "Vector Animals",
                 "title": "",
                 "caption": "Vector animals",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/icons-1600x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/icons-1600x1080-800x540.jpg",
-                "alt": "Christmas icons",
-                "title": "",
-                "caption": "Christmas icons in color",
                 "active": false
               },
               {
@@ -243,11 +220,11 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide6-1600x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/slide6-1600x1080-800x540.jpg",
-                "alt": "Visit Card",
+                "image": "@PROJECT_PATH@/assets/images/icons-1600x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/icons-1600x1080-800x540.jpg",
+                "alt": "Christmas icons",
                 "title": "",
-                "caption": "Business card and logo design for local numerologist",
+                "caption": "Christmas icons in color",
                 "active": false
               },
               {
@@ -259,20 +236,28 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide8-1600x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/slide8-1600x1080-800x540.jpg",
-                "alt": "Jungle game",
+                "image": "@PROJECT_PATH@/assets/images/slide6-1600x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/slide6-1600x1080-800x540.jpg",
+                "alt": "Visit Card",
                 "title": "",
-                "caption": "Web game design",
+                "caption": "Business card and logo design for local numerologist",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide9-1600x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/slide9-1600x1080-800x540.jpg",
-                "alt": "Jumper game",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1599x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/slide1-1599x1080-800x540.jpg",
+                "alt": "Vector logo mask",
                 "title": "",
-                "caption": "Web game design",
+                "caption": "Logo concept for local furniture store",
                 "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide5-1600x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/slide5-1600x1080-800x540.jpg",
+                "alt": "Floral pattern",
+                "title": "",
+                "caption": "Floral pattern",
+                "active": false
               }
             ]
           },
@@ -282,35 +267,6 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-2"
-        },
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f0f0f0",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "CONTACTS",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-github\" title=\"GitHub\" target=\"_blank\" href=\"https://github.com/Mobirise\"><i class=\"socicon socicon-github\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-9",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#4c6972",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "32px"
-            }
-          }
         },
         {
           "_params": {
